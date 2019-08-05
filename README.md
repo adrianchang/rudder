@@ -3,7 +3,7 @@
 
 # What is rudder
 
-Rudder is an offline to online dating app. Imagine this, when you are chilling in a cafe and you see a beautiful girl sitting over there. If you have Rudder installed on you phone, you can just open the app and she might be on the nearby user list. And you can then interact with her. So what makes Rudder different from other dating app? With Rudder, instead of chatting with a person who only has a profile picture, you meet the person in reality first. Also, Rudder is using bluetooth low energy to search other nearby users. Thus all the users that's around you can be found and it woulnd find users that you can't see in person.
+Rudder is an offline to online dating app. Imagine this, when you are chilling in a cafe and you see an attractive person sitting over there. If you have Rudder installed on your phone, you can just open the app and he or she might be on the nearby user list. And you can then interact with her. Also by using Bluetooth Low Energy, we can get real nearby users in the same room, not just people in the near 1km.
 
 Demo slides: https://drive.google.com/file/d/1opDuRWNSBHgdb8njzUGnQv68zeL_jbC0/view?usp=sharing
 Please notice that Rudder now is in prototype phase.
