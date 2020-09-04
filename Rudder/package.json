@@ -24,7 +24,7 @@
         "cordova-plugin-browsertab": "^0.2.0",
         "cordova-plugin-buildinfo": "^1.1.0",
         "cordova-plugin-compat": "^1.0.0",
-        "cordova-plugin-inappbrowser": "^0.2.2",
+        "cordova-plugin-inappbrowser": "^4.0.0",
         "cordova-plugin-whitelist": "1",
         "cordova-universal-links-plugin": "^1.2.1",
         "firebase": "^4.1.2",
